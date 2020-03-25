@@ -77,6 +77,13 @@ img{
         margin: auto;
     }
 
+    .right img{
+        transform: translateX(-20%);
+    }
+    
+    #steps img{
+        transform: translateX(-20%);
+    }
     #steps .row > .left,
     #steps .row > .central,
     #steps .row > .right{
